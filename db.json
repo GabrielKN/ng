@@ -1,0 +1,126 @@
+{
+  "File": [
+    {
+    "fileId": CR000023,
+    "title": "Get the word out about your Covid preventative measures",
+    "description": "Test description",
+    "incidentType": "Theft",
+    "identityNumber": "989874748",
+    "citizenship": "Namibian",
+    "region": "Khomas",
+    "residentialAddress": "Windhoek West",
+    "postalAddress": "P.O.Box 12323, Windhoek North",
+    "actualOutcome": "Breakfast",
+    "customTimeStamp": "9 February 2021"
+    },
+    {
+    "fileId": CR000026,
+    "title": "Laptop stolen from car",
+    "description": "Test description",
+    "incidentType": "Theft",
+    "identityNumber": "989874748",
+    "citizenship": "Namibian",
+    "region": "Khomas",
+    "residentialAddress": "Windhoek West",
+    "postalAddress": "P.O.Box 12323, Windhoek North",
+    "actualOutcome": "Breakfast",
+    "customTimeStamp": "8 February 2021"
+    },
+    {
+    "fileId": CR000034,
+    "title": "House breaking",
+    "description": "Test description",
+    "incidentType": "Theft",
+    "identityNumber": "989874748",
+    "citizenship": "Namibian",
+    "region": "Khomas",
+    "residentialAddress": "Windhoek West",
+    "postalAddress": "P.O.Box 12323, Windhoek North",
+    "actualOutcome": "Breakfast",
+    "customTimeStamp": "7 January 2021"
+    }
+  ],
+  "customer": [
+    {
+    "account": "CC00121212",
+    "name": "CompanyA",
+    "townCity": "Gobabis",
+    "latitude": "-22.450",
+    "longitude": "18.967",
+    "street": "StreetA"
+    },
+    {
+    "account": "CC00321212",
+    "name": "CompanyB",
+    "townCity": "Tsumeb",
+    "latitude": "-19.23333",
+    "longitude": "17.71667",
+    "street": "StreetB"
+    }
+  ],
+  "manifestProducts": [
+    {
+    "barCode": 6009880243037,
+    "manifetsNumber": "517577000002",
+    "name": "750ml Thirst Still Water",
+    "actualProduct": "clereGabes",
+    "customer": {
+      "account": "CC00121212",
+      "name": "CompanyA",
+      "townCity": "Gobabis",
+      "latitude": "-22.450",
+      "longitude": "18.967",
+      "street": "StreetA"
+    },
+    "quantity": 24
+    },
+    {
+    "barCode": 6001374081491,
+    "manifetsNumber": "517577000002",
+    "name": "2cm thick iron bars",
+    "actualProduct": "clereJunior",
+    "customer": {
+      "account": "CC00321212",
+      "name": "CompanyB",
+      "townCity": "Tsumeb",
+      "latitude": "-19.23333",
+      "longitude": "17.71667",
+      "street": "StreetB"
+    },
+    "quantity": 5
+    },
+    {
+    "barCode": 6291107812588,
+    "manifetsNumber": "517577000002",
+    "name": "Pipe lining bi-welded lorian brackets",
+    "actualProduct": "Sanitizer",
+    "customer": {
+      "account": "CC00121212",
+      "name": "CompanyA",
+      "townCity": "Gobabis",
+      "latitude": "-22.450",
+      "longitude": "18.967",
+      "street": "StreetA"
+    },
+    "quantity": 70
+    },
+    {
+    "barCode": 9780199115235,
+    "manifetsNumber": "517577000002",
+    "name": "12m industrial hose pipes",
+    "actualProduct": "dictionary",
+    "customer": {
+      "account": "CC00321212",
+      "name": "CompanyB",
+      "townCity": "Tsumeb",
+      "latitude": "-19.23333",
+      "longitude": "17.71667",
+      "street": "StreetB"
+    },
+    "quantity": 8
+    }
+  ],
+  "profile": {
+    "name": "Chef"
+  }
+}
