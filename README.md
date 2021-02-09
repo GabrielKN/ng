@@ -1,2 +1,2 @@
-https://my-json-server.typicode.com/GabrielKN/NgumusEye
+https://my-json-server.typicode.com/GabrielKN/ng
 
