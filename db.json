@@ -1,7 +1,7 @@
 {
-  "File": [
+  "file": [
     {
-    "fileId": CR000023,
+    "fileId": "CR000023",
     "title": "Get the word out about your Covid preventative measures",
     "description": "Test description",
     "incidentType": "Theft",
@@ -14,7 +14,7 @@
     "customTimeStamp": "9 February 2021"
     },
     {
-    "fileId": CR000026,
+    "fileId": "CR000026",
     "title": "Laptop stolen from car",
     "description": "Test description",
     "incidentType": "Theft",
@@ -27,7 +27,7 @@
     "customTimeStamp": "8 February 2021"
     },
     {
-    "fileId": CR000034,
+    "fileId": "CR000034",
     "title": "House breaking",
     "description": "Test description",
     "incidentType": "Theft",
