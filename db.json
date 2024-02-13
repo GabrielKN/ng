@@ -1,45 +1,66 @@
 {
-  "file": [
-    {
-    "fileId": "CR000023",
-    "title": "Get the word out about your Covid preventative measures",
-    "description": "Test description",
-    "incidentType": "Theft",
-    "identityNumber": "989874748",
-    "citizenship": "Namibian",
-    "region": "Khomas",
-    "residentialAddress": "Windhoek West",
-    "postalAddress": "P.O.Box 12323, Windhoek North",
-    "actualOutcome": "Breakfast",
-    "customTimeStamp": "9 February 2021"
-    },
-    {
-    "fileId": "CR000026",
-    "title": "Laptop stolen from car",
-    "description": "Test description",
-    "incidentType": "Theft",
-    "identityNumber": "989874748",
-    "citizenship": "Namibian",
-    "region": "Khomas",
-    "residentialAddress": "Windhoek West",
-    "postalAddress": "P.O.Box 12323, Windhoek North",
-    "actualOutcome": "Breakfast",
-    "customTimeStamp": "8 February 2021"
-    },
-    {
-    "fileId": "CR000034",
-    "title": "House breaking",
-    "description": "Test description",
-    "incidentType": "Theft",
-    "identityNumber": "989874748",
-    "citizenship": "Namibian",
-    "region": "Khomas",
-    "residentialAddress": "Windhoek West",
-    "postalAddress": "P.O.Box 12323, Windhoek North",
-    "actualOutcome": "Breakfast",
-    "customTimeStamp": "7 January 2021"
-    }
-  ],
+  "news": [
+  {
+    "id": "CR000001",
+    "title": "Raise awareness about your Covid preventive measures",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod quam nec odio hendrerit cursus.",
+    "date": "2024-02-12"
+  },
+  {
+    "id": "CR000002",
+    "title": "Promote safety measures against Covid-19",
+    "description": "Suspendisse potenti. Nulla facilisi. Integer eu magna vitae justo malesuada volutpat ut non velit.",
+    "date": "2024-02-13"
+  },
+  {
+    "id": "CR000003",
+    "title": "Communicate the importance of hygiene practices",
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Nulla facilisi. Sed euismod cursus justo, eu ultrices ex feugiat vel.",
+    "date": "2024-02-14"
+  },
+  {
+    "id": "CR000004",
+    "title": "Highlight safety protocols for public gatherings",
+    "description": "Quisque vehicula, odio a cursus pellentesque, justo nunc convallis nulla, ut imperdiet risus turpis eu ligula. Phasellus bibendum vel ex id facilisis.",
+    "date": "2024-02-15"
+  },
+  {
+    "id": "CR000005",
+    "title": "Promote community well-being through health initiatives",
+    "description": "Aliquam ut elementum arcu. Fusce facilisis, justo vel pellentesque sollicitudin, sem elit euismod dui, nec viverra metus libero nec purus. Nam euismod nulla id nisi placerat, id vestibulum arcu tincidunt.",
+    "date": "2024-02-16"
+  },
+  {
+    "id": "CR000006",
+    "title": "Educate the public on Covid preventive strategies",
+    "description": "In hac habitasse platea dictumst. Maecenas vel augue vel ligula ultrices egestas. Ut vel lacinia orci. Integer vel ipsum vel urna rhoncus bibendum.",
+    "date": "2024-02-17"
+  },
+  {
+    "id": "CR000007",
+    "title": "Create awareness about pandemic safety",
+    "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut auctor dui eget nibh eleifend, id aliquet mi interdum. Nullam auctor dignissim ligula, ut varius elit laoreet non.",
+    "date": "2024-02-18"
+  },
+  {
+    "id": "CR000008",
+    "title": "Encourage adherence to health guidelines",
+    "description": "Integer a nunc nec dui commodo bibendum. Aliquam erat volutpat. Fusce non efficitur felis, nec pellentesque justo. Nunc ut lectus nec libero convallis ullamcorper.",
+    "date": "2024-02-19"
+  },
+  {
+    "id": "CR000009",
+    "title": "Share tips for maintaining a safe environment",
+    "description": "Curabitur at vestibulum est. Vestibulum nec feugiat purus, a eleifend nisl. Maecenas vel fringilla ligula. Sed nec massa vel elit viverra luctus ac at elit.",
+    "date": "2024-02-20"
+  },
+  {
+    "id": "CR000010",
+    "title": "Advocate for community health and well-being",
+    "description": "Nam convallis justo nec ante iaculis, vitae scelerisque nulla tincidunt. Nulla facilisi. Etiam eget dictum orci, sit amet fermentum justo. Curabitur vitae justo in leo pharetra fermentum.",
+    "date": "2024-02-21"
+  }
+],
   "customer": [
     {
     "account": "CC00121212",
